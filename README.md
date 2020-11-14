@@ -1,4 +1,8 @@
-# first
+# ScreenShots
+![ScreenShot](assets/1.png)
+
+![ScreenShot](assets/2.png)
+
 
 ## Project setup
 ```
@@ -22,3 +26,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
